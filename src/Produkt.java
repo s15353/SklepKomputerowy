@@ -40,4 +40,3 @@ public class Produkt {
         System.out.println("ID: " + id + " || Produkt: " + nazwa + " || Kategoria: " + kategoria + " || Cena: " + cena + " || Ilość magazynowa: " + iloscWMagazynie);
     }
 }
-

@@ -68,4 +68,3 @@ public class Zamowienie {
         System.out.println("Wartosc zamowienia: " + obliczWartoscZamowienia());
     }
 }
-
