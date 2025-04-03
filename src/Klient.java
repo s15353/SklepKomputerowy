@@ -38,8 +38,5 @@ public class Klient {
     }
     public void wyswietlInformacje() {
         System.out.println("ID: " + id + " || Klient: " + imie + " " + nazwisko + " || Email: " + email + " || Stały klient: " + czyStaly);
-
     }
-
-
 }
